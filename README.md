@@ -1,5 +1,5 @@
 # Title: Tappy World 2
-## Task ID: U006
+### Task ID: U006
 ### Main Statement
 ```!
 See [T062 Tappy World](https://judge.hkoi.org/task/T062) but with the following modifications:
@@ -28,7 +28,7 @@ You should output the total area of the 2-D world that is above 0 (exclusive of 
 ### Scoring mode
 HKOI
 
-## Judging mode
+### Judging mode
 Plain text comparison
 
 ### Solution program
